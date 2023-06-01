@@ -8,14 +8,19 @@ html {
 }
 body {
   background: #eee;
+  
+  background-image: url("https://www.transparenttextures.com/patterns/handmade-paper.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #E06469;
   margin: auto -16px;
   padding: 16px 32px;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+ 
 }
 
 header h1 {
@@ -59,7 +64,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #E06469;;
   border: none;
   width: 36px;
   height: 36px;
